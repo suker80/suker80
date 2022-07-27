@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suker80)](https://solved.ac/suker80)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suker80)](https://solved.ac/profile/suker80)
 
 <!--
 **suker80/suker80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
